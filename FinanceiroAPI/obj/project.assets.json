@@ -13103,11 +13103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Documents\\Projetos\\PrjProva\\FinanceiroAPI\\FinanceiroAPI.csproj",
+      "projectUniqueName": "C:\\Fontes\\FinanceiroAPI\\FinanceiroAPI.csproj",
       "projectName": "FinanceiroAPI",
-      "projectPath": "C:\\Users\\Pichau\\Documents\\Projetos\\PrjProva\\FinanceiroAPI\\FinanceiroAPI.csproj",
+      "projectPath": "C:\\Fontes\\FinanceiroAPI\\FinanceiroAPI.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Documents\\Projetos\\PrjProva\\FinanceiroAPI\\obj\\",
+      "outputPath": "C:\\Fontes\\FinanceiroAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13126,8 +13126,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Pichau\\Documents\\Projetos\\PrjProva\\FinanceiroAPP\\FinanceiroAPP.csproj": {
-              "projectPath": "C:\\Users\\Pichau\\Documents\\Projetos\\PrjProva\\FinanceiroAPP\\FinanceiroAPP.csproj"
+            "C:\\Fontes\\FinanceiroAPP\\FinanceiroAPP.csproj": {
+              "projectPath": "C:\\Fontes\\FinanceiroAPP\\FinanceiroAPP.csproj"
             }
           }
         }

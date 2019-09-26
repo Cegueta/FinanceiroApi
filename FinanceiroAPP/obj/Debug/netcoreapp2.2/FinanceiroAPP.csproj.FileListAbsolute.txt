@@ -16,3 +16,12 @@ C:\Users\Pichau\Downloads\PrjProva\FinanceiroAPP\obj\Debug\netcoreapp2.2\Finance
 C:\Users\Pichau\Downloads\PrjProva\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.AssemblyInfo.cs
 C:\Users\Pichau\Downloads\PrjProva\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.dll
 C:\Users\Pichau\Downloads\PrjProva\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.pdb
+C:\Fontes\FinanceiroAPP\bin\Debug\netcoreapp2.2\FinanceiroAPP.deps.json
+C:\Fontes\FinanceiroAPP\bin\Debug\netcoreapp2.2\FinanceiroAPP.dll
+C:\Fontes\FinanceiroAPP\bin\Debug\netcoreapp2.2\FinanceiroAPP.pdb
+C:\Fontes\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.csprojAssemblyReference.cache
+C:\Fontes\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.csproj.CoreCompileInputs.cache
+C:\Fontes\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.AssemblyInfoInputs.cache
+C:\Fontes\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.AssemblyInfo.cs
+C:\Fontes\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.dll
+C:\Fontes\FinanceiroAPP\obj\Debug\netcoreapp2.2\FinanceiroAPP.pdb
