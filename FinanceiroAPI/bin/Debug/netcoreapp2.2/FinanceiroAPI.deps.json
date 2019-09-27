@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "9fb6bef8e5cfd7eec619376442692b1957be1804"
+    "signature": "d51aa35618c62d63a90c2b98b7cbf42b996f6a3a"
   },
   "compilationOptions": {
     "defines": [
@@ -28,6 +28,7 @@
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.7.9",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.3",
           "Swashbuckle.AspNetCore": "5.0.0-rc2"
         },
@@ -84,6 +85,7 @@
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.7.9": {},
       "Microsoft.VisualStudio.Web.CodeGeneration/2.2.3": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "2.2.0",
@@ -3652,6 +3654,13 @@
       "sha512": "sha512-96jr5MPyQ9WzxiBlTH2czVLwpOn7a7Y6j1vRHIZ4sIOFSAclPW2G+iQwnbw7rFBabTALiFJJ7q5Z5r8s+RmGvw==",
       "path": "microsoft.openapi/1.1.1",
       "hashPath": "microsoft.openapi.1.1.1.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.7.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qctOe/wBGvigq5c0GSjzR8TUgdpQv7YhHugiUyvBHTXhOpKKbhVhrsXqy4fEHZ4kVU5498ywsigEbrQ22ps4ew==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.7.9",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.7.9.nupkg.sha512"
     },
     "Microsoft.VisualStudio.Web.CodeGeneration/2.2.3": {
       "type": "package",
