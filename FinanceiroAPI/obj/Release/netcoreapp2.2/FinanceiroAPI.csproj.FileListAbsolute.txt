@@ -1,0 +1,17 @@
+C:\Fontes\FinanceiroAPI\bin\Release\netcoreapp2.2\FinanceiroAPI.deps.json
+C:\Fontes\FinanceiroAPI\bin\Release\netcoreapp2.2\FinanceiroAPI.runtimeconfig.json
+C:\Fontes\FinanceiroAPI\bin\Release\netcoreapp2.2\FinanceiroAPI.runtimeconfig.dev.json
+C:\Fontes\FinanceiroAPI\bin\Release\netcoreapp2.2\FinanceiroAPI.dll
+C:\Fontes\FinanceiroAPI\bin\Release\netcoreapp2.2\FinanceiroAPI.pdb
+C:\Fontes\FinanceiroAPI\bin\Release\netcoreapp2.2\FinanceiroAPP.dll
+C:\Fontes\FinanceiroAPI\bin\Release\netcoreapp2.2\FinanceiroAPP.pdb
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.csprojAssemblyReference.cache
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.csproj.CoreCompileInputs.cache
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.RazorAssemblyInfo.cache
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.RazorAssemblyInfo.cs
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.AssemblyInfoInputs.cache
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.AssemblyInfo.cs
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.RazorTargetAssemblyInfo.cache
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.csproj.CopyComplete
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.dll
+C:\Fontes\FinanceiroAPI\obj\Release\netcoreapp2.2\FinanceiroAPI.pdb
