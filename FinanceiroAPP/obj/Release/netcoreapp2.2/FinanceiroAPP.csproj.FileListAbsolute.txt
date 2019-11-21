@@ -1,8 +1,0 @@
-C:\Fontes\FinanceiroAPP\bin\Release\netcoreapp2.2\FinanceiroAPP.deps.json
-C:\Fontes\FinanceiroAPP\bin\Release\netcoreapp2.2\FinanceiroAPP.dll
-C:\Fontes\FinanceiroAPP\bin\Release\netcoreapp2.2\FinanceiroAPP.pdb
-C:\Fontes\FinanceiroAPP\obj\Release\netcoreapp2.2\FinanceiroAPP.csproj.CoreCompileInputs.cache
-C:\Fontes\FinanceiroAPP\obj\Release\netcoreapp2.2\FinanceiroAPP.AssemblyInfoInputs.cache
-C:\Fontes\FinanceiroAPP\obj\Release\netcoreapp2.2\FinanceiroAPP.AssemblyInfo.cs
-C:\Fontes\FinanceiroAPP\obj\Release\netcoreapp2.2\FinanceiroAPP.dll
-C:\Fontes\FinanceiroAPP\obj\Release\netcoreapp2.2\FinanceiroAPP.pdb
